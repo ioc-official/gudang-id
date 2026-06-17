@@ -12,6 +12,7 @@ Setiap ID yang terdaftar dilengkapi dengan informasi kreator, mencakup username 
 - [Halaman Livery Kereta]
 
 ---
+
 ## Contributor Repository Github Gudang ID Overfreight
 - Owner : [IOC OFFICIAL](https://github.com/ioc-official)
 
@@ -19,6 +20,16 @@ Setiap ID yang terdaftar dilengkapi dengan informasi kreator, mencakup username 
 _Terkait Website ODI (Overfreight Decal Indonesia)_
 ```txt 
 Assalamu'alaikum Warahmatullahi Wabarakatuh
+Saya sebagai dari owner IOC (Indonesia Overfreight Community)
+Akan menyampaikan Kabar website ODI Saat ini
+
+Saat ini website lagi dalam pembangunan dan mungkin akan selesai sekitaran 1-7 hari lagi tergantung kesibukannya
+Makasih telah membaca
+
+Wassalamu'alaikum Warahmatullahi Wabarakatuh
+Owner IOC Official.
 ```
+
+---
 
 # Livery Loko
