@@ -10,6 +10,9 @@ Setiap ID yang terdaftar dilengkapi dengan informasi kreator, mencakup username 
 **Quick Guide:**
 - [Halaman Livery Loko](https://github.com/ioc-official/gudang-id/blob/main/README.md#livery-loko)
 - [Halaman Livery Kereta]
+
 ---
+# Contributor Repository Github Gudang ID Overfreight
+- Owner : 
 
 # Livery Loko
