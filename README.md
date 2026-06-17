@@ -46,4 +46,13 @@ Owner IOC Official.
 - **Discord** : @mivzry
 
 ## 2. Livery RNB
-![Preview Livery - 2](
+![Preview Livery - 2](./assets/photo2.png)
+
+**📝 Copy ID :**
+```txt
+103245599069467
+```
+
+**👑 Creator ID :**
+- **Roblox** : azamks122
+- **Discord** : @mivzry
