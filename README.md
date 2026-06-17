@@ -8,7 +8,7 @@ Repository ini berisi kumpulan ID decal Roblox livery kereta api Indonesia (KAI)
 Setiap ID yang terdaftar dilengkapi dengan informasi kreator, mencakup username Roblox dan username Discord sebagai bentuk penghargaan kepada pemilik aslinya. Satu kreator dapat memiliki lebih dari satu ID decal.
 
 **Quick Guide:**
-- [Halaman Livery Loko]
+- [Halaman Livery Loko](
 ---
 
 # Livery Loko
