@@ -33,4 +33,4 @@ Owner IOC Official.
 ---
 
 # Livery Loko
-1. Livery Standar KAI
+**1. Livery Standar KAI**
