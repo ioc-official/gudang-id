@@ -35,7 +35,7 @@ Owner IOC Official.
 # Livery Loko
 **📌 Quick Access**
 - [Livery Standar KAI](https://github.com/ioc-official/gudang-id/blob/main/README.md#1-livery-standar-kai)
-- [Livery RnB]
+- [Livery RnB](https://github.com/ioc-official/gudang-id/blob/main/README.md#2-livery-rnb)
 
 ## 1. Livery Standar KAI
 ![Preview Livery - 1](./assets/photo1.png)
