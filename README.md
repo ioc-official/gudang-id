@@ -66,6 +66,15 @@ _2 White Lines RnB_
 - **Discord** : @mivzry
 
 ## 3. Livery WNB
+**📝 Copy ID :**
+_WnB Normal_
+```txt
+86260377160229
+```
+
+**👑 Creator ID :**
+- **Roblox** : azamks122
+- **Discord** : @mivzry
 
 ## 4. Livery PJKA
 
