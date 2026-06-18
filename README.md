@@ -10,6 +10,7 @@ Setiap ID yang terdaftar dilengkapi dengan informasi kreator, mencakup username 
 **Quick Guide:**
 - [Halaman Livery Loko](https://github.com/ioc-official/gudang-id/blob/main/README.md#livery-loko)
 - [Halaman Livery Kereta]
+- [Preview Livery Gallery]
 
 ---
 
@@ -38,8 +39,6 @@ Owner IOC Official.
 - [Livery RnB](https://github.com/ioc-official/gudang-id#2-livery-rnb--rnb-2-white-lines)
 
 ## 1. Livery Standar KAI
-![Preview Livery - 1](./assets/photo1.png)
-
 **📝 Copy ID :**
 ```txt
 109582755361358
@@ -50,8 +49,6 @@ Owner IOC Official.
 - **Discord** : @mivzry
 
 ## 2. Livery RNB & RNB 2 WHITE LINES
-![Preview Livery - 2](./assets/photo2.png)
-
 **📝 Copy ID :**
 _Normal RnB_
 ```txt
