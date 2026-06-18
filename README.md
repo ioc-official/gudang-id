@@ -53,9 +53,11 @@ Owner IOC Official.
 ![Preview Livery - 2](./assets/photo2.png)
 
 **📝 Copy ID :**
+_Normal RnB_
 ```txt
 103245599069467
 ```
+_2 White Lines RnB_
 ```txt
 108387700226319
 ```
