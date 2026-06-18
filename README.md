@@ -36,7 +36,8 @@ Owner IOC Official.
 # Livery Loko
 **📌 Quick Access**
 - [Livery Standar KAI](https://github.com/ioc-official/gudang-id/blob/main/README.md#1-livery-standar-kai)
-- [Livery RnB](https://github.com/ioc-official/gudang-id#2-livery-rnb--rnb-2-white-lines)
+- [Livery RnB](https://github.com/ioc-official/gudang-id#2-livery-rnb)
+- [Livery WnB](https://github.com/ioc-official/gudang-id#3-livery-wnb)
 
 ## 1. Livery Standar KAI
 **📝 Copy ID :**
@@ -48,7 +49,7 @@ Owner IOC Official.
 - **Roblox** : azamks122
 - **Discord** : @mivzry
 
-## 2. Livery RNB & RNB 2 WHITE LINES
+## 2. Livery RNB
 **📝 Copy ID :**
 _Normal RnB_
 ```txt
