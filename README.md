@@ -10,5 +10,9 @@ _sebagai pengganti sementara dari website ODI yang sampe saat ini masih on prose
 
 ---
 
-# 1. Livery Loko
-
+# Livery Loko
+**1. Livery Lokomotif Standar:** 
+```txt
+109582755361358
+```
+Creator : azamks122
