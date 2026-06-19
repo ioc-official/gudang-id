@@ -15,4 +15,17 @@ _sebagai pengganti sementara dari website ODI yang sampe saat ini masih on prose
 ```txt
 109582755361358
 ```
-Creator : azamks122
+_Creator : azamks122_
+
+**2. Livery Lokomotif RnB:** 
+```txt
+103245599069467
+```
+_Creator : azamks122_
+
+# Livery Kereta
+**1. Passenger Executive:** 
+```txt
+111526257109522
+```
+_Creator : azamks122_
